@@ -9,7 +9,7 @@
 ### Work Experiences
 
 - :office: &nbsp; Taggers, Inc.
-  - Advertiser API (05. 2020 - 07. 2020)
+  - Taggers Backend Server (05. 2020 - 07. 2020)
 - :hospital: &nbsp; Seoul National University Hospital (Anesthesiology and Pain Medicine, Biomedical Research Institute)
   - VitalDB (08. 2019 - 04. 2020)
   - SNUH Enhanced Recovery After Surgery (12. 2019 - 03. 2020)
@@ -17,8 +17,8 @@
   - SNUH Preclinical Experiment DB (04. 2020 - 04. 2020)
   - Korea Clinical Datathon 2019 (09. 2019 - 09. 2019)
 - :office: &nbsp; The Commerce
-  - OnePrice Core API (10. 2018 - 04. 2019)
-  - OnePrice Admin & Seller (10. 2018 - 04. 2019)
+  - OnePrice Backend Server (10. 2018 - 04. 2019)
+  - OnePrice Frontend (10. 2018 - 04. 2019)
 
 ### Team Experience
 
