@@ -5,13 +5,11 @@
 
 - :office: &nbsp; [Taggers, Inc.](https://taggers.io) (05. 2020 - 07. 2020) - Backend Developer
   - All-In-One SaaS Solution for E-Commerce SMB Market. 
-
 - :hospital: &nbsp; [Seoul National University Hospital](https://bri.snuh.org/) (08. 2019 - 04. 2020) - Research Scientist (Backend Developer)
   - [VitalDB](https://vitaldb.net)
   - SNUH Enhanced Recovery After Surgery
   - SNUH Preoperative Evaluation Questionnaire
   - SNUH Preclinical Experiment DB
-
 - :office: &nbsp; The Commerce (10. 2018 - 04. 2019) - Backend Developer
   - [OnePrice](https://oneprice.co.kr)
 
