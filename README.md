@@ -3,26 +3,25 @@
 
 ### Work Experiences
 
-- :office: &nbsp; Taggers, Inc.
-  - Taggers Backend Server (05. 2020 - 07. 2020)
-- :hospital: &nbsp; Seoul National University Hospital (Anesthesiology and Pain Medicine, Biomedical Research Institute)
-  - VitalDB (08. 2019 - 04. 2020)
-  - SNUH Enhanced Recovery After Surgery (12. 2019 - 03. 2020)
-  - SNUH Preoperative Evaluation Questionnaire  (12. 2019 - 03. 2020)
-  - SNUH Preclinical Experiment DB (04. 2020 - 04. 2020)
-  - Korea Clinical Datathon 2019 (09. 2019 - 09. 2019)
-- :office: &nbsp; The Commerce
-  - OnePrice Backend Server (10. 2018 - 04. 2019)
-  - OnePrice Frontend (10. 2018 - 04. 2019)
+- :office: &nbsp; [Taggers, Inc.](https://taggers.io) (05. 2020 - 07. 2020) - Backend Developer
+  - All-In-One SaaS Solution for E-Commerce SMB Market. 
+- :hospital: &nbsp; [Seoul National University Hospital](https://bri.snuh.org/) (08. 2019 - 04. 2020) - Research Scientist (Backend Developer)
+  - [VitalDB](https://vitaldb.net)
+  - SNUH Enhanced Recovery After Surgery
+  - SNUH Preoperative Evaluation Questionnaire
+  - SNUH Preclinical Experiment DB
+  - Korea Clinical Datathon 2019
+- :office: &nbsp; The Commerce (10. 2018 - 04. 2019) - Backend Developer
+  - [OnePrice](https://oneprice.co.kr)
 
 ### Team Experience
 
-- :musical_note: &nbsp; Team Crescendo (12. 2018 - current)
+- :musical_note: &nbsp; [Team Crescendo](https://team-crescendo.me) (12. 2018 ~ current) - Backend Developer
 
 
 ### Activities
 
-- 👨‍⚕️ &nbsp; 2019 Korea Clinical Datathon Mento (Seoul National University Hospital)
+- 👨‍⚕️ &nbsp; [KOREA CLINICAL DATATHON 2019](http://datathon.konect.or.kr/) Mento (Seoul National University Hospital)
 - :information_desk_person: &nbsp; 2019 OSS Kookmin Univ Software Summer Camp Teaching assistant
 
 
