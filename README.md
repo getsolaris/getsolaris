@@ -15,7 +15,7 @@
 
 ### Team Experience
 
-- :musical_note: &nbsp; [Team Crescendo](https://team-crescendo.me) (12. 2018 ~ current) - Backend Developer
+- :musical_note: &nbsp; [Team Crescendo](https://team-crescendo.me) (Dec. 2018 ~ current) - Backend Developer
 
 
 ### Activities
