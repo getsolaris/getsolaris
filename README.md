@@ -4,7 +4,6 @@
 ### Work Experiences
 
 - :office: &nbsp; 
-  - 
 - :office: &nbsp; [Taggers, Inc.](https://taggers.io) (May. 2020 - Jul. 2020) - Backend Developer
   - All-In-One SaaS Solution for E-Commerce SMB Market. 
 - :hospital: &nbsp; [Seoul National University Hospital](https://bri.snuh.org/) (Aug. 2019 - Apr. 2020) - Research Scientist (Backend Developer)
