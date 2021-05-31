@@ -26,7 +26,7 @@
 
 
 ### Military
-- 🪖 Discharged from the Navy
+- 🎖️ &nbsp; Discharged from the Navy
 
 
 ### Skills
