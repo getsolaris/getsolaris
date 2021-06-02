@@ -16,6 +16,9 @@
 ### Team Experience
 
 - :musical_note: &nbsp; [Team Crescendo](https://team-crescendo.me) (Dec. 2018 ~ current) - Backend Developer
+  - Forte API
+    - Payment is supported through linkage with 3rd PG Company (Xsolla).
+    - Make various contents available based on the Discord account.
 
 
 ### Activities
