@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Mingeun Kim (getsolaris)
+## 👋 Mingeun Kim (getsolaris)
 
 
 ### Work Experiences
