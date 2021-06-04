@@ -2,16 +2,10 @@
 
 
 ### Work Experiences
-- :office: &nbsp; New Company (-) - Backend Developer
+- :office: &nbsp; New Company (Jun. 2021 ~ current) - Backend Developer
 - :office: &nbsp; [Taggers, Inc.](https://taggers.io) (May. 2020 - Jul. 2020) - Backend Developer
-  - Advertiser API
 - :hospital: &nbsp; [Seoul National University Hospital](https://bri.snuh.org/) (Aug. 2019 - Apr. 2020) - Research Scientist (Backend Developer)
-  - [VitalDB](https://vitaldb.net)
-  - SNUH Enhanced Recovery After Surgery
-  - SNUH Preoperative Evaluation Questionnaire
-  - SNUH Preclinical Experiment DB
 - :office: &nbsp; The Commerce (Oct. 2018 - Apr. 2019) - Backend Developer
-  - [OnePrice](https://oneprice.co.kr)
 
 ### Team Experience
 
