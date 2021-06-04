@@ -17,7 +17,7 @@
 
 ### Activities
 
-- 👨‍⚕️ &nbsp; [KOREA CLINICAL DATATHON 2019](http://datathon.konect.or.kr/) Mento (Seoul National University Hospital)
+- 👨‍⚕️ &nbsp; [Korea Clinical Datathon 2019](http://datathon.konect.or.kr/) Mento (Seoul National University Hospital)
 - :information_desk_person: &nbsp; 2019 OSS Kookmin Univ Software Summer Camp Teaching assistant
 
 
