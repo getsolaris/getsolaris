@@ -1,4 +1,4 @@
-![Metrics](https://metrics.lecoq.io/getsolaris?template=classic&base.repositories=0&config.timezone=Asia%2FSeoul)
+![Metrics](https://github.com/getsolaris/getsolaris/blob/master/github-metrics.svg)
 
 
 ### Work Experiences
