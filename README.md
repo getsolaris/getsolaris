@@ -1,4 +1,4 @@
-## 👋 Mingeun Kim (getsolaris)
+![Metrics](https://metrics.lecoq.io/getsolaris?template=classic&base.repositories=0&config.timezone=Asia%2FSeoul)
 
 
 ### Work Experiences
