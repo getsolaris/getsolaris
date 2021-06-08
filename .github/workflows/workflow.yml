@@ -20,3 +20,6 @@ jobs:
           template: classic
           base: header, activity, community, metadata
           config_timezone: Asia/Seoul
+          plugin_contributors: yes
+          plugin_contributors_head: master
+          plugin_contributors_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot]
