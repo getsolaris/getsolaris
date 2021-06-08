@@ -2,7 +2,6 @@
 
 
 ### Work Experiences
-- :office: &nbsp; [Imweb Corp.](https://imweb.me) (Jun. 2021 ~ current) - Backend Developer
 - :office: &nbsp; [Taggers, Inc.](https://taggers.io) (May. 2020 - Jul. 2020) - Backend Developer
 - :hospital: &nbsp; [Seoul National University Hospital](https://bri.snuh.org/) (Aug. 2019 - Apr. 2020) - Research Scientist (Backend Developer)
 - :office: &nbsp; The Commerce (Oct. 2018 - Apr. 2019) - Backend Developer
