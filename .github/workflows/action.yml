@@ -18,7 +18,7 @@ jobs:
           # Options
           user: getsolaris
           template: classic
-          base: header, activity, community, metadata
+          base: header, activity, community, metadata, repositories
           config_timezone: Asia/Seoul
           plugin_languages: yes
           plugin_languages_colors: github
@@ -27,3 +27,6 @@ jobs:
           plugin_languages_recent.load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+          repositories: 100                              # Query only last 100 repositories
+          repositories_forks: no                         # Don't include forks
+          repositories_affiliations: owner, collaborator # Display only repositories where user is owner or collaborator
