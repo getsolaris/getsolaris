@@ -1,31 +1,6 @@
 ![Metrics](https://github.com/getsolaris/getsolaris/blob/master/github-metrics.svg)
 
 
-### Work Experiences
-
-- :office: &nbsp; [Taggers, Inc.](https://taggers.io) (May. 2020 - Jul. 2020) - Backend Developer
-- :hospital: &nbsp; [Seoul National University Hospital](https://bri.snuh.org/) (Aug. 2019 - Apr. 2020) - Research Scientist (Backend Developer)
-- :office: &nbsp; The Commerce (Oct. 2018 - Apr. 2019) - Backend Developer
-
-### Team Experience
-
-- :musical_note: &nbsp; [Team Crescendo](https://team-crescendo.me) (Dec. 2018 - ) - Backend Developer
-  - Forte API
-    - Payment is supported through linkage with 3rd PG Company (Xsolla).
-    - Make various contents available based on the Discord account.
-
-
-### Activities
-
-- 👨‍⚕️ &nbsp; [Korea Clinical Datathon 2019](http://datathon.konect.or.kr/) Mento (Seoul National University Hospital)
-- :information_desk_person: &nbsp; 2019 OSS Kookmin Univ Software Summer Camp Teaching assistant
-
-
-### Military
-
-- 🎖️ &nbsp; Discharged from the Navy
-
-
 ### Skills
 
 [<img align="left" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />][github]
